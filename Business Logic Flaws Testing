@@ -1,3 +1,3 @@
-User Authentication and Authorization
+# User Authentication and Authorization
 Test for authentication bypass by manipulating session tokens or exploiting weak password reset mechanisms.
 Verify proper authorization checks to ensure users can only access functionalities and data they are allowed to.
